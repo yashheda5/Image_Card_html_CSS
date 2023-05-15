@@ -1,0 +1,41 @@
+.container{
+    font-size: 35px;
+    display: flex;
+    
+    justify-content: center;
+  align-items: center;
+    
+    
+}
+figure{
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.container figcaption{
+    padding-left: 2vh;
+}
+hr{
+    
+    opacity: 0.5;
+    background-color: rgb(237,237,237);
+    
+}
+.abc{
+    color: rgb(102,116,204);
+    font-size: 3.5vh;
+    display: inline-block;
+    font-family: 'rubik',sans-serif;
+}
+.offer{
+    margin-top: 0px;
+    font-size: 20px;
+    display: inline-block;
+    background-color: rgb(29,209,161);
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+}
+img{
+    border-radius: 15px;
+}
